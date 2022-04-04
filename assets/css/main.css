@@ -4723,7 +4723,7 @@ input, select, textarea {
 		font-size: 2rem;
 	}
 
-	@media screen and (min-width: 360px) and (max-width: 768px) {
+	@media screen and (min-width: 320px) and (max-width: 768px) {
 		.prof {
 			display: grid;
 			
